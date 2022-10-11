@@ -1,2 +1,2 @@
 # LuigiHack-deobf
-Pls use better obfuscator and not Sb27 (Its good client tho)
+Pls use better obfuscator and not Sb27 (The client is good tho)
